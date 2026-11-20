@@ -3,7 +3,7 @@ entries:
   genai4e:
   - apiVersion: v2
     appVersion: 0.9.1
-    created: "2026-11-19T12:03:16.9848194+05:30"
+    created: "2026-11-20T18:45:39.809378912Z"
     description: Genai4E, the self-hosted enterprise AI platform (governed model access,
       MCP, RAG and agent apps).
     digest: ef0be1d05408741ea51c05617bc4f0b458b6474bab325a054558d6b983937cee
@@ -25,7 +25,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 0.9.0
-    created: "2026-11-19T12:03:16.9773919+05:30"
+    created: "2026-11-20T18:45:39.804076515Z"
     description: Genai4E, the self-hosted enterprise AI platform (governed model access,
       MCP, RAG and agent apps).
     digest: 3a1be872c308e2e2bdfda6a6735aebc24891dfd18fd05064c2224072ebc84312
@@ -45,4 +45,26 @@ entries:
     urls:
     - https://charts.genai4e.com/genai4e/genai4e-0.9.0.tgz
     version: 0.9.0
-generated: "2026-11-19T12:03:16.9679948+05:30"
+  - apiVersion: v2
+    appVersion: 0.2.0-rc.1
+    created: "2026-11-20T18:45:39.798682211Z"
+    description: Genai4E, the self-hosted enterprise AI platform (governed model access,
+      MCP, RAG and agent apps).
+    digest: 4bb0f9241e52180ff6d16f6ca85b4e0ab22b2cb3b3d5faf2d4dfc947d79109fb
+    home: https://genai4e.com
+    icon: https://genai4e.com/favicon.svg
+    keywords:
+    - ai
+    - llm
+    - gateway
+    - mcp
+    - rag
+    - agents
+    - governance
+    kubeVersion: '>=1.30.0-0'
+    name: genai4e
+    type: application
+    urls:
+    - https://charts.genai4e.com/genai4e/genai4e-0.2.0-rc.1.tgz
+    version: 0.2.0-rc.1
+generated: "2026-11-20T18:45:39.792055465Z"
